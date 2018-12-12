@@ -1,0 +1,323 @@
+# Translation of Themes - Twenty Twelve in Bengali
+# This file is distributed under the same license as the Themes - Twenty Twelve package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-07-18 10:36:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: bn\n"
+"Project-Id-Version: Themes - Twenty Twelve\n"
+
+#. Description of the plugin/theme
+msgid "The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background."
+msgstr "ওয়ার্ডপ্রেসের ২০১২ থিমটি সম্পূর্ণ একটি রেসপনসিভ থিম, ফলে এটি সব ডিভাইসেই চমৎকার দেখায়। এটির বৈশিষ্ট্যের মধ্যে আছে একটি প্রধান পাতার টেমপ্লেট যার একটি নিজস্ব উইজেট এরিয়া আছে, দেখানোর জন্যে একটি ঐচ্ছিক ফন্ট, মূল পাতা এবং নিজস্ব পাতায় দেখানোর জন্যে পোস্ট ফরমেটের বিশেষ স্টাইল এবং একটি সাইডবার ছাড়া পাতার টেমপ্লেট। কাস্টম মেনু, হেডার এবং ব্যাকগ্রাউন্ড ছবির মাধ্যমে এটি আপনার মনের মত করে সাজিয়ে নিন।"
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Twelve"
+msgstr "Twenty Twelve"
+
+#. Template Name of the plugin/theme
+msgid "Full-width Page Template, No Sidebar"
+msgstr "পূর্ণ প্রস্থের পাতার টেমপ্লেট, সাইডবার নেই"
+
+#. Template Name of the plugin/theme
+msgid "Front Page Template"
+msgstr "প্রথম পাতার টেমপ্লেট"
+
+#: tag.php:21
+msgid "Tag Archives: %s"
+msgstr "ট্যাগ আর্কাইভঃ %s"
+
+#: single.php:25
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:24
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: search.php:41
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "দুঃখিত, আপনার খোঁজার বিষয়ের প্রেক্ষিতে কিছুই পাওয়া যায় নি। অনুগ্রহ করে অন্য কোন কিওয়ার্ড দিয়ে আবার চেষ্টা করুন।"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "%s এর জন্য খোঁজার ফলাফল"
+
+#: index.php:46
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "আপনার প্রথম পোস্ট প্রকাশ করার জন্যে প্রস্তুত? <a href=\"%s\">এখানে শুরু করুন</a>।"
+
+#: index.php:42
+msgid "No posts to display"
+msgstr "দেখানোর মত কোন পোস্ট নেই"
+
+#: image.php:46
+msgid "Next &rarr;"
+msgstr "পরবর্তী &rarr;"
+
+#: image.php:45
+msgid "&larr; Previous"
+msgstr "&larr; পূর্ববর্তী"
+
+#: image.php:30
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">প্রকাশিত </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> সাইজ <a href=\"%3$s\" title=\"পুরো সাইজের ছবিতে লিংক\">%4$s &times; %5$s</a> <a href=\"%6$s\" title=\"ফিরে চলুন %7$s\" rel=\"gallery\">%8$s</a> তে।"
+
+#: header.php:44
+msgid "Skip to content"
+msgstr "এড়িেয় লেখায় যান"
+
+#: header.php:43
+msgid "Menu"
+msgstr "মেনু"
+
+#: functions.php:453
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "এই লেখাটি পোস্ট করা হয়েছে %3$s তারিখে <span class=\"by-author\">লিখেছেন %4$s</span>।"
+
+#: functions.php:451
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "এই লেখাটি পোস্ট করা হয়েছে %3$s তারিখে, %1$s এ, <span class=\"by-author\">লিখেছেন %4$s</span>।"
+
+#. Translators: 1 is category, 2 is tag, 3 is the date and 4 is the author's
+#. name.
+#: functions.php:449
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "এই লেখাটি পোস্ট করা হয়েছে %3$s তারিখে, %1$s এ এবং ট্যাগ হয়েছে %2$s <span class=\"by-author\">লিখেছেন %4$s</span>।"
+
+#: functions.php:443
+msgid "View all posts by %s"
+msgstr "%s এর সকল পোস্ট দেখুন"
+
+#. Translators: used between list items, there is a space after the comma.
+#: functions.php:427 functions.php:430
+msgid ", "
+msgstr ", "
+
+#: functions.php:399
+msgid "Reply"
+msgstr "জবাব"
+
+#: functions.php:386
+msgid "Your comment is awaiting moderation."
+msgstr "আপনার মন্তব্যটি অনুমোদনের অপেক্ষায় আছে"
+
+#. translators: 1: date, 2: time
+#: functions.php:380
+msgid "%1$s at %2$s"
+msgstr "%1$s; %2$s এ"
+
+#: functions.php:373
+msgid "Post author"
+msgstr "পোস্টের লেখক"
+
+#: functions.php:357
+msgid "(Edit)"
+msgstr "(সম্পাদনা)"
+
+#: functions.php:357
+msgid "Pingback:"
+msgstr "পিংব্যাকঃ"
+
+#: functions.php:331
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "নতুনতর পোস্ট <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:330
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> পুরনো পোস্ট"
+
+#: functions.php:329 single.php:23
+msgid "Post navigation"
+msgstr "পোস্টের নেভিগেশন"
+
+#: functions.php:306
+msgid "Second Front Page Widget Area"
+msgstr "দ্বিতীয় নীড়পাতার উইজেটের স্থান"
+
+#: functions.php:296 functions.php:308
+msgid "Appears when using the optional Front Page template with a page set as Static Front Page"
+msgstr "এটি দেখানো হয় যখন একটি পাতা যার টেমপ্লেট হিসেবে ঐচ্ছিক প্রথম পাতার টেমপ্লেট রাখা হয় এবং এটি স্থায়ী মূল পাতা হিসেবে নির্বাচিত থাকে।"
+
+#: functions.php:294
+msgid "First Front Page Widget Area"
+msgstr "প্রথম নীড়পাতার উইজেটের স্থান"
+
+#: functions.php:284
+msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
+msgstr "ঐচ্ছিক নীড়পাতার টেমপ্লেট ছাড়া পোস্ট এবং পাতায় দেখায়"
+
+#: functions.php:282
+msgid "Main Sidebar"
+msgstr "প্রধান সাইডবার"
+
+#: functions.php:250
+msgid "Page %s"
+msgstr "পাতা %s"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not
+#. translate into your own language.
+#: functions.php:113
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "cyrillic"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:107
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:65
+msgid "Primary Menu"
+msgstr "প্রাথমিক মেনু"
+
+#: footer.php:22
+msgid "Proudly powered by %s"
+msgstr "%s দ্বারা সদম্ভে চালিত হচ্ছে"
+
+#: footer.php:21
+msgid "Semantic Personal Publishing Platform"
+msgstr "ব্যক্তিগত প্রকাশনা প্ল্যাটফর্ম"
+
+#: content.php:75
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s এর সকল পোস্ট দেখুন <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:16
+msgid "Featured post"
+msgstr "নির্বাচিত পোস্ট"
+
+#: content-page.php:24 content.php:50 image.php:123
+msgid "Pages:"
+msgstr "পাতাগুলি:"
+
+#: content-none.php:17 index.php:58
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "দুঃখিত, কোন ফলাফল খুঁজে পাওয়া যায় নি। সম্ভবতে খুঁজলে সেই সম্পর্কিত কোন পোস্ট পাওয়া যাবে।"
+
+#: content-none.php:13 index.php:54 search.php:37
+msgid "Nothing Found"
+msgstr "কিছুই পাওয়া যায় নি"
+
+#: content-link.php:12
+msgid "Link"
+msgstr "লিংক"
+
+#: content-aside.php:26 content-image.php:26 content-link.php:24
+#: content-page.php:31 content-quote.php:23 content-status.php:40
+#: content.php:60 functions.php:391 image.php:41
+msgid "Edit"
+msgstr "সম্পাদনা"
+
+#: content-aside.php:23 content-image.php:23 content-link.php:21
+#: content-quote.php:20 content-status.php:37 content.php:35
+msgid "% Replies"
+msgstr "% উত্তর"
+
+#: content-aside.php:23 content-image.php:23 content-link.php:21
+#: content-quote.php:20 content-status.php:37 content.php:35
+msgid "1 Reply"
+msgstr "১টি উত্তর"
+
+#: content-aside.php:23 content-image.php:23 content-link.php:21
+#: content-quote.php:20 content-status.php:37 content.php:35
+msgid "Leave a reply"
+msgstr "মন্তব্য করুন"
+
+#: content-aside.php:20 content-link.php:18 content-quote.php:17
+#: content-status.php:15
+msgid "Permalink to %s"
+msgstr "%s এর স্থায়ী লিংক"
+
+#: content-aside.php:15 content-image.php:13 content-link.php:14
+#: content-quote.php:13 content-status.php:31 content.php:46
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "বিস্তারিত পড়ুন <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "মন্তব্য প্রধান বন্ধ আছে।"
+
+#: comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "নতুনতর মন্তব্য &rarr;"
+
+#: comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; পুরনো মন্তব্য"
+
+#: comments.php:52
+msgid "Comment navigation"
+msgstr "মন্তব্যের নেভিগেশন"
+
+#: comments.php:33
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; তে একটি মন্তব্য"
+msgstr[1] "&ldquo;%2$s&rdquo; তে %1$sটি মন্তব্য"
+
+#: category.php:21
+msgid "Category Archives: %s"
+msgstr "বিভাগের আর্কাইভঃ %s"
+
+#: author.php:64 content.php:71
+msgid "About %s"
+msgstr "%s সম্পর্কে"
+
+#: author.php:32
+msgid "Author Archives: %s"
+msgstr "লেখকের আর্কাইভঃ %s"
+
+#: archive.php:36
+msgid "Archives"
+msgstr "আর্কাইভ"
+
+#: archive.php:34
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:34
+msgid "Yearly Archives: %s"
+msgstr "বাৎসরিক আর্কাইভঃ %s"
+
+#: archive.php:32
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:32
+msgid "Monthly Archives: %s"
+msgstr "মাসিক আর্কাইভঃ %s"
+
+#: archive.php:30
+msgid "Daily Archives: %s"
+msgstr "দৈনন্দিন আর্কাইভঃ %s"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "মনে হচ্ছে আপনি যেটি খুঁজছেন সেটি আমরা খুঁজে পাইনি। সম্ভবত খুঁজলে পাওয়া যাবে।"
+
+#: 404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "এটি কিছুটা লজ্জাজনক, তাই নয় কি?"
+
+#. #-#-#-#-#  twentytwelve.pot (Twenty Twelve 2.5)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:21
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/ "
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "ওয়ার্ডপ্রেস টিম"

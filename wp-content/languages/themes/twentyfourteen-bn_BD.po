@@ -1,0 +1,443 @@
+# Translation of Themes - Twenty Fourteen in Bengali
+# This file is distributed under the same license as the Themes - Twenty Fourteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-08-18 08:21:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: bn\n"
+"Project-Id-Version: Themes - Twenty Fourteen\n"
+
+#. Description of the plugin/theme
+msgid "In 2014, our default theme lets you create a responsive magazine website with a sleek, modern design. Feature your favorite homepage content in either a grid or a slider. Use the three widget areas to customize your website, and change your content's layout with a full-width page template and a contributor page to show off your authors. Creating a magazine website with WordPress has never been easier."
+msgstr "আমাদের ডিফল্ট ২০১৪ থীমটি ব্যবহার করে আপনি মসৃন ও আধুনিক ডিজাইনের রেসপন্সিভ ম্যাগাজিন ওয়েবসাইট তৈরি করতে পারবেন। আপনার হোমপেজ-এর প্রিয় কনটেন্টকে গ্রিড ও স্লাইডার আকারে সাজাতে পারবেন। আপনার ওয়েবসাইটকে সাজাতে তিন ধরণের উইজেট এলাকা ব্যবহার করতে পারেন এবং আপনার কনটেন্ট-এর লেআউটকে পূর্ণ পাতায় পরিবর্তন এবং কন্ট্রিবিউটর পাতায় লেখকদের দেখাতে পারেন। ওয়ার্ডপ্রেস-এ ম্যাগাজিন ওয়েবসাইট তৈরি এতটা সহজ কখনোই ছিলনা।"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr "সম্পূর্ণ প্রস্থ"
+
+#. Template Name of the plugin/theme
+msgid "Contributor Page"
+msgstr "কন্ট্রিবিউটর পাতা"
+
+#: tag.php:22
+msgid "Tag Archives: %s"
+msgstr "ট্যাগ আর্কাইভঃ %s"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "%s এর জন্য খোঁজার ফলাফল"
+
+#: inc/widgets.php:290
+msgid "Post format to show:"
+msgstr "যে পোস্ট ফরম্যাট দেখাতে চান:"
+
+#: inc/widgets.php:287
+msgid "Number of posts to show:"
+msgstr "যতগুলো প্রকাশনা দেখানো হবে:"
+
+#: inc/widgets.php:284
+msgid "Title:"
+msgstr "শিরোনাম:"
+
+#. translators: used with More archives link
+#: inc/widgets.php:235
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/widgets.php:190
+msgid "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photo</a>."
+msgid_plural "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photos</a>."
+msgstr[0] "এই গ্যালারিতে রয়েছে <a href=\"%1$s\" rel=\"bookmark\">%2$sটি ফটো</a>।"
+msgstr[1] "এই গ্যালারিতে রয়েছে <a href=\"%1$s\" rel=\"bookmark\">%2$sটি ফটো</a>।"
+
+#: inc/widgets.php:151 inc/widgets.php:200
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "বিস্তারিত পড়ুন <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/widgets.php:102
+msgid "More asides"
+msgstr "আরো অ্যাসাইডসমূহ"
+
+#: inc/widgets.php:101 taxonomy-post_format.php:30
+msgid "Asides"
+msgstr "অ্যাসাইডসমূহ"
+
+#: inc/widgets.php:97
+msgid "More galleries"
+msgstr "আরো গ্যালারী"
+
+#: inc/widgets.php:96 taxonomy-post_format.php:48
+msgid "Galleries"
+msgstr "গ্যালারীসমূহ"
+
+#: inc/widgets.php:93
+msgid "More links"
+msgstr "আরো লিংক"
+
+#: inc/widgets.php:92 taxonomy-post_format.php:45
+msgid "Links"
+msgstr "লিংকসমূহ"
+
+#: inc/widgets.php:89
+msgid "More quotes"
+msgstr "আরো উদ্ধৃতিসমূহ"
+
+#: inc/widgets.php:88 taxonomy-post_format.php:42
+msgid "Quotes"
+msgstr "উদ্ধৃতিসমূহ"
+
+#: inc/widgets.php:85
+msgid "More audio"
+msgstr "আরো অডিও"
+
+#: inc/widgets.php:84 taxonomy-post_format.php:39
+msgid "Audio"
+msgstr "অডিও"
+
+#: inc/widgets.php:81
+msgid "More videos"
+msgstr "আরো ভিডিও"
+
+#: inc/widgets.php:80 taxonomy-post_format.php:36
+msgid "Videos"
+msgstr "ভিডিওসমূহ"
+
+#: inc/widgets.php:77
+msgid "More images"
+msgstr "আরো ছবি"
+
+#: inc/widgets.php:76 taxonomy-post_format.php:33
+msgid "Images"
+msgstr "ছবিগুলো"
+
+#: inc/widgets.php:36
+msgid "Use this widget to list your recent Aside, Quote, Video, Audio, Image, Gallery, and Link posts."
+msgstr "আপনার সাম্প্রতিক পার্শ্বনিবন্ধ, উদ্ধৃতি, ভিডিও, অডিও, ছবি, গ্যালারি, এবং লিংক প্রকাশনাসমূহকে তালিকভুক্ত করতে এই উইজেটটি ব্যবহার করুন।"
+
+#: inc/widgets.php:34
+msgid "Twenty Fourteen Ephemera"
+msgstr "টুয়েন্টি ফোরটিন ইফেমেরা"
+
+#: inc/template-tags.php:111
+msgid "Sticky"
+msgstr "স্টিকি"
+
+#: inc/template-tags.php:94
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr "<span class=\"meta-nav\">পরবর্তী পোস্ট</span>%title"
+
+#: inc/template-tags.php:93
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr "<span class=\"meta-nav\">পূর্ববর্তী পোস্ট</span>%title"
+
+#: inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr "%title-এ <span class=\"meta-nav\">প্রকাশিত</span>"
+
+#: inc/template-tags.php:87
+msgid "Post navigation"
+msgstr "পোস্টের নেভিগেশন"
+
+#: inc/template-tags.php:60
+msgid "Posts navigation"
+msgstr "প্রকাশনাসমূহের নেভিগেশন"
+
+#: inc/template-tags.php:52
+msgid "Next &rarr;"
+msgstr "পরবর্তী &rarr;"
+
+#: inc/template-tags.php:51
+msgid "&larr; Previous"
+msgstr "&larr; পূর্ববর্তী"
+
+#: inc/featured-content.php:417
+msgid "Don&rsquo;t display tag on front end."
+msgstr "ফ্রন্টএন্ডে ট্যাগ দেখাবেন না।"
+
+#: inc/featured-content.php:410
+msgid "Tag Name"
+msgstr "ট্যাগ এর নাম"
+
+#: inc/customizer.php:159
+msgid "For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s\">Twenty Fourteen documentation</a>."
+msgstr "অন্যান্য টিউটোরিয়াল, টিপস এবং ট্রিক্স-এর জন্য <a href=\"%s\">টুয়েন্টি ফোর্টিন ডকুমেন্টেশন</a> দেখুন।"
+
+#: inc/customizer.php:158
+msgid "Enhance your site design by using <a href=\"%s\">Featured Images</a> for posts you&rsquo;d like to stand out (also known as post thumbnails). This allows you to associate an image with your post without inserting it. Twenty Fourteen uses featured images for posts and pages&mdash;above the title&mdash;and in the Featured Content area on the home page."
+msgstr "প্রকাশনার জন‍্য <a href=\"%s\">নির্বাচিত ছবি</a> (এটা পোস্ট থাম্বনেলইল নামেও পরিচিত) ব‍্যবহার করে অাপনার সাইটের নকশাকে অারও সুন্দর করে তুলুন। এটা প্রকাশনার সাথে একটি ছবিকে প্রকাশনার মধ‍্যে ব‍্যবহার না করেও সংযুক্ত করতে দেয়। টুয়েন্টি ফোরটিন থিম প্রকাশনা ও পাতার শিরোনামের অাগে এবং হোমপেজের নির্বাচিত কনটেন্ট অংশে নির্বাচিত ছবি ব‍্যবহার করে।"
+
+#: inc/customizer.php:157
+msgid "The home page features your choice of up to 6 posts prominently displayed in a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+"প্রথম পাতার ফিচারগুলো আপনার পছন্দের ৬টি প্রকাশনাকে ছক অথবা স্লাইডার-এ স্পষ্টভাবে\n"
+"দেখায় যেটি একটি <a href=\"%1$s\">ট্যাগ</a>-এর মাধ্যমে নিয়ন্ত্রণ করা যায়; আপনি <a href=\"%2$s\">শৈলী এবং কাস্টমাইজ</a>-এর ভেতরের ট্যাগ এবং লেআউট পরিবর্তন করতে পারবেন। যদি কোনো প্রকাশনার সাথে ট্যাগ না মেলে, তাহলে এর পরিবর্তে <a href=\"%3$s\">স্টিকি প্রকাশনাগুলো</a> দেখানো হবে।"
+
+#. #-#-#-#-#  twentyfourteen.pot (Twenty Fourteen 2.2)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/customizer.php:154
+msgid "Twenty Fourteen"
+msgstr "Twenty Fourteen"
+
+#: inc/customizer.php:84
+msgid "Slider"
+msgstr "স্লাইডার"
+
+#: inc/customizer.php:83
+msgid "Grid"
+msgstr "গ্রিড"
+
+#: inc/customizer.php:79
+msgid "Layout"
+msgstr "লেআউট"
+
+#: inc/customizer.php:61 inc/customizer.php:157 inc/featured-content.php:383
+#: inc/featured-content.php:394 inc/featured-content.php:457
+msgctxt "featured content default tag slug"
+msgid "featured"
+msgstr "ফিচার্ড"
+
+#: inc/customizer.php:60 inc/featured-content.php:382
+msgid "Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr "আপনার প্রকাশনাসমূহকে ফিচার্ড করার জন্য <a href=\"%1$s\">ট্যাগটি</a> ব্যবহার করুন। যদি এই ট্যাগে কোনো প্রকাশনা পাওয়া না যায়, তাহলে এর পরিবর্তে <a href=\"%2$s\">স্টিকী প্রকাশনাসমূহ</a> প্রদর্শিত হবে।"
+
+#: inc/customizer.php:58 inc/featured-content.php:380
+msgid "Featured Content"
+msgstr "নির্বাচিত লেখা"
+
+#: inc/customizer.php:51 inc/customizer.php:52
+msgid "Background may only be visible on wide screens."
+msgstr "ব্যাকগ্রাউন্ডটি হয়তো শুধুমাত্র প্রশস্ত স্ক্রীনে দৃশ্যমান হতে পারে।"
+
+#: inc/customizer.php:48 inc/customizer.php:49
+msgid "May only be visible on wide screens."
+msgstr "হয়তো শুধুমাত্র প্রশস্ত স্ক্রীনে দৃশ্যমান হতে পারে।"
+
+#: inc/customizer.php:44
+msgid "Display Site Title &amp; Tagline"
+msgstr "সাইট শিরোনাম এবং ট্যাগলাইন প্রদর্শন করুন"
+
+#: inc/customizer.php:41
+msgid "Site Title Color"
+msgstr "সাইটের শিরোনামের রং"
+
+#: inc/back-compat.php:37 inc/back-compat.php:48 inc/back-compat.php:62
+msgid "Twenty Fourteen requires at least WordPress version 3.6. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Fourteen থিমের জন্য অন্ততপক্ষে WordPress 3.6 ভার্সন প্রয়োজন। আপনি চালাচ্ছেন %s ভার্সন। অনুগ্রহ করে আপগ্রেড করে পুনরায় চেষ্টা করুন।"
+
+#: image.php:69
+msgid "Next Image"
+msgstr "পরের ছবি"
+
+#: image.php:68
+msgid "Previous Image"
+msgstr "আগের ছবি"
+
+#: header.php:53
+msgid "Skip to content"
+msgstr "এড়িেয় লেখায় যান"
+
+#: header.php:52
+msgid "Primary Menu"
+msgstr "প্রাথমিক মেনু"
+
+#: header.php:48
+msgid "Search"
+msgstr "অনুসন্ধান"
+
+#: functions.php:556
+msgid "Page %s"
+msgstr "পাতা %s"
+
+#: functions.php:437
+msgid "%d Article"
+msgid_plural "%d Articles"
+msgstr[0] "%d টি অনুচ্ছেদ"
+msgstr[1] "%d টি অনুচ্ছেদ"
+
+#: functions.php:291
+msgid "Next"
+msgstr "পরবর্তী"
+
+#: functions.php:290
+msgid "Previous"
+msgstr "পূর্ববর্তী"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:244
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:221
+msgid "Appears in the footer section of the site."
+msgstr "সাইটের ফুটার অংশে দেখা যায়।"
+
+#: functions.php:219
+msgid "Footer Widget Area"
+msgstr "ফুটার উইজেট এরিয়া"
+
+#: functions.php:210
+msgid "Additional sidebar that appears on the right."
+msgstr "আরেকটি সাইডবার যেটা ডানে প্রদর্শিত হবে।"
+
+#: functions.php:208
+msgid "Content Sidebar"
+msgstr "কন্টেন্ট সাইডবার"
+
+#: functions.php:199
+msgid "Main sidebar that appears on the left."
+msgstr "প্রধান সাইডবার যেটা বামে প্রদর্শিত হয়।"
+
+#: functions.php:197
+msgid "Primary Sidebar"
+msgstr "প্রাথমিক সাইডবার"
+
+#: functions.php:85
+msgid "Secondary menu in left sidebar"
+msgstr "বাম সাইডবারে সেকেন্ডারি মেনু"
+
+#: functions.php:84
+msgid "Top primary menu"
+msgstr "শীর্ষ প্রাথমিক মেনু"
+
+#: footer.php:27
+msgid "Proudly powered by %s"
+msgstr "%s দ্বারা সদম্ভে চালিত হচ্ছে"
+
+#: content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "মনে হচ্ছে আপনি যেটি খুঁজছেন সেটি আমরা খুঁজে পাইনি। সম্ভবত খুঁজলে পাওয়া যাবে।"
+
+#: content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "দুঃখিত, কোনকিছু আপনার অনুসন্ধানকৃত বিষয়ের সাথে মিলেনি। অনুগ্রহ করে কিছু ভিন্ন কীওয়ার্ড দ্বারা আবার চেষ্টা করুন।"
+
+#: content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "আপনার প্রথম পোস্ট প্রকাশ করার জন্য প্রস্তুত? <a href=\"%1$s\">এখান থেকে শুরু করুন</a>।"
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "কিছুই পাওয়া যায় নি"
+
+#: content-aside.php:56 content-audio.php:56 content-gallery.php:56
+#: content-image.php:56 content-link.php:56 content-page.php:23
+#: content-quote.php:56 content-video.php:56 content.php:65 image.php:56
+msgid "Pages:"
+msgstr "পাতাগুলি:"
+
+#. translators: %s: Name of current post
+#: content-aside.php:49 content-audio.php:49 content-gallery.php:49
+#: content-image.php:49 content-link.php:49 content-quote.php:49
+#: content-video.php:49 content.php:58 inc/template-tags.php:229
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "পড়তে থাকুন %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:40 content-audio.php:40 content-gallery.php:40
+#: content-image.php:40 content-link.php:40 content-page.php:30
+#: content-quote.php:40 content-video.php:40 content.php:43 image.php:35
+#: page-templates/contributors.php:36
+msgid "Edit"
+msgstr "সম্পাদনা"
+
+#: content-aside.php:37 content-audio.php:37 content-gallery.php:37
+#: content-image.php:37 content-link.php:37 content-quote.php:37
+#: content-video.php:37 content.php:39 inc/widgets.php:223
+msgid "% Comments"
+msgstr "% টি মন্তব্য"
+
+#: content-aside.php:37 content-audio.php:37 content-gallery.php:37
+#: content-image.php:37 content-link.php:37 content-quote.php:37
+#: content-video.php:37 content.php:39 inc/widgets.php:223
+msgid "1 Comment"
+msgstr "একটি মন্তব্য"
+
+#: content-aside.php:37 content-audio.php:37 content-gallery.php:37
+#: content-image.php:37 content-link.php:37 content-quote.php:37
+#: content-video.php:37 content.php:39 inc/widgets.php:223
+msgid "Leave a comment"
+msgstr "মন্তব্য করুন"
+
+#: content-aside.php:17 content-audio.php:17 content-featured-post.php:28
+#: content-gallery.php:17 content-image.php:17 content-link.php:17
+#: content-quote.php:17 content-video.php:17 content.php:19
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ","
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "মন্তব্য প্রধান বন্ধ আছে।"
+
+#: comments.php:52 comments.php:72
+msgid "Newer Comments &rarr;"
+msgstr "নতুনতর মন্তব্য &rarr;"
+
+#: comments.php:51 comments.php:71
+msgid "&larr; Older Comments"
+msgstr "&larr; পুরনো মন্তব্য"
+
+#: comments.php:50 comments.php:70
+msgid "Comment navigation"
+msgstr "মন্তব্যের নেভিগেশন"
+
+#: category.php:20
+msgid "Category Archives: %s"
+msgstr "বিভাগের আর্কাইভঃ %s"
+
+#: author.php:31
+msgid "All posts by %s"
+msgstr "%s এর সকল পোস্ট"
+
+#: archive.php:40 taxonomy-post_format.php:51
+msgid "Archives"
+msgstr "আর্কাইভ"
+
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "বাৎসরিক আর্কাইভঃ %s"
+
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "মাসিক আর্কাইভঃ %s"
+
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "দৈনন্দিন আর্কাইভঃ %s"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "দেখে মনে হচ্ছে এই জায়গায় কিছুই পাওয়া যায় নি। হয়তো সার্চ করে দেখতে পারেন?"
+
+#: 404.php:17
+msgid "Not Found"
+msgstr "পাওয়া যায় নি"
+
+#. #-#-#-#-#  twentyfourteen.pot (Twenty Fourteen 2.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:26
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/ "
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "ওয়ার্ডপ্রেস টিম"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentyfourteen/"
+msgstr "https://wordpress.org/themes/twentyfourteen/"

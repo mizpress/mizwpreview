@@ -1,0 +1,1455 @@
+# Translation of Themes - OnePress in Bengali
+# This file is distributed under the same license as the Themes - OnePress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-31 05:58:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: bn\n"
+"Project-Id-Version: Themes - OnePress\n"
+
+#. Description of the plugin/theme
+msgid "OnePress is an outstanding creative and flexible WordPress one page theme well suited for business website, portfolio, digital agency, product showcase, freelancers and everyone else who appreciate good design. The theme overall is an elegant and classic one, a fine example of Bootstrap 4 WordPress theme which compatibility with latest version of WooCommerce. (Live preview : http://www.famethemes.com/preview/?theme=OnePress)"
+msgstr "OnePress একটি অসামান্য সৃজনশীল এবং নমনীয় WordPress এক পাতার থিম যা ব্যবসায়িক ওয়েবসাইট, দাপ্তরিক, ডিজিটাল সংস্থা, পণ্য প্রদর্শনী, ফ্রিল্যান্সার এবং অন্য যারা ভালো ডিজাইনের মূল্যায়ণ করে তাদের জন্য খুবই উপযোগী। পুরো থিমটিই খুব মার্জিত এবং প্রথম শ্রেনীর একটি থিম, সর্বেশষ সংস্করণের WooCommerce এর সঙ্গে সামঞ্জস্যপূর্ণ বুটস্ট্রাপ ৪ ওয়ার্ডপ্রেস থিমের একটি উত্তম উদাহরন এই থিমটি। (সরাসরি নিরীক্ষণ : http://www.famethemes.com/preview/?theme=OnePress)"
+
+#. #-#-#-#-#  onepress.pot (OnePress 1.4.3)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/dashboard.php:327
+msgid "OnePress"
+msgstr "OnePress"
+
+#: inc/customizer.php:550
+msgid "Single Post"
+msgstr "একক প্রকাশনা"
+
+#: inc/customizer.php:582
+msgid "Check this box to show single post meta such as post date, author, category,..."
+msgstr "একক প্রকাশনার মেটা যেমনঃ প্রকাশনার তারিখ, লেখক, বিভাগ ইত্যাদি প্রদর্শন করতে এই বাক্সটিতে চেক করুন।"
+
+#: inc/customizer.php:580
+msgid "Show single post meta"
+msgstr "একক প্রকাশনার মেটা প্রদর্শন করুন"
+
+#: inc/customizer.php:567
+msgid "Check this box to show post thumbnail on single post."
+msgstr "একক প্রকাশনায় প্রকাশনার থাম্বনেইল প্রদর্শনের জন্য এই বাক্সটিতে চেক করুন।"
+
+#: inc/customizer.php:565 inc/customizer.php:595
+msgid "Show single post thumbnail"
+msgstr "একক প্রকাশনার থাম্বনেইল প্রদর্শন করুন"
+
+#: inc/customizer.php:597
+msgid "Check this box to show featured image on single post."
+msgstr "একক প্রকাশনার ফিচার ছবি প্রদর্শন করতে এই বাক্সটিতে চেক করুন।"
+
+#: inc/customizer.php:816
+msgid "Text animation speed"
+msgstr "লেখ্য অ্যানিমেশনের গতি"
+
+#: inc/customizer.php:834
+msgid "Slider animation speed"
+msgstr "স্লাইডারের অ্যানিমেশনের গতি"
+
+#: inc/customizer.php:851
+msgid "Slider duration speed"
+msgstr "স্লাইডারের গতির সময়কাল"
+
+#: inc/customizer.php:852
+msgid "The amount of time in between slides, expressed as the number of milliseconds."
+msgstr "স্লাইডের মধ্যকার সময়ের পরিমান, মিলিসেকেন্ড সংখ্যায় প্রকাশ করা হয়েছে।"
+
+#: inc/customizer.php:835
+msgid "This is the speed at which the image will fade in. Integers in milliseconds are accepted."
+msgstr "এটি সেই গতি যাতে ছবি ম্লান হয়ে যাবে। পূর্ণসংখ্যার মিলিসেকেন্ড গ্রহণযোগ্য।"
+
+#: inc/customizer.php:3025
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: inc/dashboard.php:379
+msgid "Child theme uses it’s own theme setting name, would you like to copy setting data from parent theme to this child theme?"
+msgstr "চাইল্ড থিম এর নিজস্ব থিম সেটিং এর নাম ব্যবহার করে, আপনি কি প্যারেন্ট থিম থেকে সেটিং উপাত্ত এই চাইল্ড থিমে কপি করতে চান?"
+
+#: inc/customizer.php:3021
+msgid "Search"
+msgstr "অনুসন্ধান"
+
+#: inc/dashboard.php:238
+msgid "Details"
+msgstr "বিস্তারিত"
+
+#: inc/customizer.php:1581 section-parts/section-gallery.php:38
+msgid "View More"
+msgstr "আরও দেখুন"
+
+#: inc/customizer.php:1571
+msgid "Read More Link"
+msgstr "আরও লিঙ্ক পড়ুন"
+
+#: inc/customizer.php:132
+msgid "No sidebar"
+msgstr "সাইডবার নেই"
+
+#: inc/customizer.php:1586
+msgid "Read More Text"
+msgstr "আরও লেখা পড়ুন"
+
+#: inc/customizer.php:131
+msgid "Left sidebar"
+msgstr "বাম সাইডবার"
+
+#: inc/customizer.php:130
+msgid "Right sidebar"
+msgstr "ডান সাইডবার"
+
+#: inc/dashboard.php:558
+msgid "Are you sure want to copy ?"
+msgstr "আপনি কি নিশ্চিত যে আপনি কপি করতে চান?"
+
+#: inc/dashboard.php:419
+msgid "Recommend Plugins"
+msgstr "সুপারিশ করা প্লাগিন সমূহ"
+
+#: inc/dashboard.php:402
+msgid "Your settings copied."
+msgstr "আপনার সেটিংস কপি করা হয়েছে।"
+
+#: inc/dashboard.php:399
+msgid "Copy now"
+msgstr "এখন কপি করুন"
+
+#: inc/dashboard.php:391
+msgid "To Theme"
+msgstr "থিমে"
+
+#: inc/dashboard.php:385
+msgid "From Theme"
+msgstr "থিম থেকে"
+
+#: inc/dashboard.php:377
+msgid "You're using %1$s theme, It's a child theme of OnePress"
+msgstr "আপনি %1$s থিম ব্যবহার করছেন, এটি OnePress এর একটি চাইল্ড থিম"
+
+#: inc/dashboard.php:166
+msgid "Import Demo Data"
+msgstr "ডেমো উপাত্ত আমদানি করুন"
+
+#: functions.php:101
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/customizer.php:126
+msgid "Site Layout"
+msgstr "সাইটের নকশা"
+
+#: inc/customizer.php:127
+msgid "Site Layout, apply for all pages, exclude home page and custom page templates."
+msgstr "সাইটের নকশা, প্রচ্ছদ পাতা এবং কাস্টম পাতার টেম্পলেট ব্যতীত সকল পাতার ক্ষেত্রে প্রযোজ্য।"
+
+#: inc/dashboard.php:166
+msgid "Save time by import our demo data, your website will be set up and ready to customize in minutes. %s"
+msgstr "আমাদের ডেমো উপাত্ত আমদানির মাধ্যমে সময় বাঁচান, আপনার ওয়েবসাইট কয়েক মিনিটের মধ্যেই কাস্টমাইজ করার জন্য সংস্থাপিত এবং প্রস্তুত হয়ে যাবে। %s"
+
+#: functions.php:105
+msgid "Famethemes Demo Importer"
+msgstr "Famethemes ডেমো আমদানিকারী"
+
+#: functions.php:153
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce সাইডবার"
+
+#: inc/customizer.php:1468
+msgid "Slider"
+msgstr "স্লাইডার"
+
+#: inc/customizer.php:2098
+msgid "1 Column"
+msgstr "১ স্তম্ভ"
+
+#: inc/customizer.php:1500
+msgid "Row Height"
+msgstr "সারির উচ্চতা"
+
+#: inc/customizer.php:1470
+msgid "Masonry"
+msgstr "স্থাপত্য"
+
+#: inc/customizer.php:1469
+msgid "Justified"
+msgstr "সমর্থনযোগ্য"
+
+#: inc/customizer.php:1466
+msgid "Grid"
+msgstr "গ্রিড"
+
+#: inc/customizer.php:1461
+msgid "Display"
+msgstr "প্রদর্শন"
+
+#: inc/customizer.php:1446
+msgid "Default, inside container"
+msgstr "পূর্বনির্ধারিত, অভ্যন্তরীণ ধারক"
+
+#: inc/customizer.php:1427
+msgid "Select a page which have content contain [gallery] shortcode."
+msgstr "[gallery] শর্ট কোড বিষয়বস্তু অন্তর্ভুক্ত আছে এমন একটি পাতা নির্বাচন করুন।"
+
+#: inc/customizer.php:1405
+msgid "Page"
+msgstr "পাতা"
+
+#: inc/customizer.php:1400
+msgid "Select Gallery Source"
+msgstr "গ্যালারি উৎস নির্বাচন করুন"
+
+#: inc/customizer.php:1467
+msgid "Carousel"
+msgstr "ক্যারাউজেল"
+
+#: inc/customizer.php:1441
+msgid "Layout"
+msgstr "নকশা"
+
+#: inc/customizer.php:2983
+msgid "Upgrade to OnePress Plus to unlock this feature."
+msgstr "ফিচারটি উদ্ঘাটন করতে OnePress Plus এ হালনাগাদ করুন।"
+
+#: inc/customizer.php:1555
+msgid "Enable Lightbox"
+msgstr "লাইটবক্স সক্ষম করুন"
+
+#: inc/customizer.php:1339 section-parts/section-gallery.php:4
+msgid "Gallery"
+msgstr "গ্যালারি"
+
+#: inc/customizer.php:1324 section-parts/section-gallery.php:2
+msgid "gallery"
+msgstr "গ্যালারি"
+
+#: inc/customizer.php:1289
+msgid "Section: Gallery"
+msgstr "বিভাগ: গ্যালারি"
+
+#: inc/customizer.php:1541
+msgid "Number items"
+msgstr "সংখ্যা পদসমূহ"
+
+#: inc/customizer.php:1484
+msgid "Item Spacing"
+msgstr "পদের ব্যবধান"
+
+#: inc/customizer.php:1422
+msgid "Select Gallery Page"
+msgstr "গ্যালারি পাতা নির্বাচন করুন"
+
+#: inc/customizer.php:1516
+msgid "Layout columns"
+msgstr "নকশার স্তম্ভ"
+
+#: inc/customizer.php:385
+msgid "Scroll to top when click to the site logo or site title, only apply on front page."
+msgstr "সাইটের লোগো অথবা সাইট শিরোনামে ক্লিক করলে উপরে স্ক্রল, শুধুমাত্র সামনের পাতার ক্ষেত্রে প্রযোজ্য।"
+
+#: inc/dashboard.php:218 inc/dashboard.php:519
+msgid "Active Now"
+msgstr "এখন সক্রিয় করুন"
+
+#: inc/dashboard.php:196 inc/dashboard.php:497
+msgid "Install Now"
+msgstr "এখন ইন্সটল করুন"
+
+#: inc/dashboard.php:537
+msgid "Hey."
+msgstr "অভিবাদন।"
+
+#: inc/customizer.php:1123
+msgid "Button #2 style"
+msgstr "বোতাম #২ শৈলী"
+
+#: inc/dashboard.php:535
+msgid "%1$s you will need to install and activate the %2$s plugin first."
+msgstr "%1$s আপনাকে আগে %2$s প্লাগিন ইন্সটল এবং সক্রিয় করতে হবে।"
+
+#: inc/dashboard.php:538
+msgid "FameThemes Demo Importer"
+msgstr "FameThemes ডেমো আমদানিকারী"
+
+#: inc/dashboard.php:329
+msgid "One Click Demo Import"
+msgstr "এক ক্লিকে ডেমো আমদানি"
+
+#: inc/customizer.php:1081 inc/customizer.php:1134
+msgid "Danger"
+msgstr "বিপদ"
+
+#: inc/customizer.php:2633
+msgid "It should be your blog page link."
+msgstr "আপনার ব্লগ পাতার লিঙ্ক হওয়া উচিৎ।"
+
+#: inc/customizer.php:1080 inc/customizer.php:1133
+msgid "Warning"
+msgstr "সতর্কীকরণ"
+
+#: inc/customizer.php:1079 inc/customizer.php:1132
+msgid "Info"
+msgstr "তথ্য"
+
+#: inc/customizer.php:1077 inc/customizer.php:1130
+msgid "Primary"
+msgstr "প্রধান"
+
+#: inc/customizer.php:1076 inc/customizer.php:1129
+msgid "Button"
+msgstr "বোতাম"
+
+#: inc/customizer.php:1075 inc/customizer.php:1128
+msgid "Button Secondary"
+msgstr "আনুষঙ্গিক বোতাম"
+
+#: inc/customizer.php:1074 inc/customizer.php:1127
+msgid "Button Primary"
+msgstr "প্রধান বোতাম"
+
+#: inc/customizer.php:2644
+msgid "More News Button Text"
+msgstr "আরও সংবাদ বোতামের লেখা"
+
+#: inc/customizer.php:1070
+msgid "Button #1 style"
+msgstr "বোতাম #১ শৈলী"
+
+#: inc/customizer.php:745
+msgid "The hero content padding top in percent (%)."
+msgstr "হিরো উপরিভাগের বিষয়বস্তুর প্যাডিং শতকরায় (%)।"
+
+#: inc/customizer.php:761
+msgid "The hero content padding bottom in percent (%)."
+msgstr "হিরো তলদেশের বিষয়বস্তুর প্যাডিং শতকরায় (%)।"
+
+#: inc/customizer.php:817
+msgid "The delay between the changing of each phrase in milliseconds."
+msgstr "মিলিসেকেন্ডে প্রতিটি বাক্য পরিবর্তনের মধ্যকার বিলম্ব।"
+
+#: inc/customizer.php:540
+msgid "The newsletter form use MailChimp, please follow <a target=\"_blank\" href=\"http://goo.gl/uRVIst\">this guide</a> to know how to get MailChimp Action URL. Example <i>//famethemes.us8.list-manage.com/subscribe/post?u=521c400d049a59a4b9c0550c2&amp;id=83187e0006</i>"
+msgstr "নিউজলেটার ফর্ম MailChimp ব্যবহার করে, কিভাবে MailChimp অ্যাকশন URL পেতে হয় তা জানতে অনুগ্রহ করে <a target=\"_blank\" href=\"http://goo.gl/uRVIst\">এই সহয়িকা</a> অনুসরন করুন। উদাহরন <i>//famethemes.us8.list-manage.com/subscribe/post?u=521c400d049a59a4b9c0550c2&amp;id=83187e0006</i>"
+
+#: inc/customizer.php:1078 inc/customizer.php:1131
+msgid "Success"
+msgstr "সফল"
+
+#: inc/customizer.php:217
+msgid "Footer Background"
+msgstr "ফুটার ব্যাকগ্রাউন্ড"
+
+#: inc/customizer.php:232
+msgid "Footer Info Background"
+msgstr "ফুটার তথ্য ব্যাকগ্রাউন্ড"
+
+#: inc/customizer.php:69
+msgid "Hide site title"
+msgstr "সাইটের শিরোনাম লুকান"
+
+#: inc/customizer.php:84
+msgid "Hide site tagline"
+msgstr "সাইটের ট্যাগলাইন লুকান"
+
+#: inc/customizer.php:1931 inc/customizer.php:2141
+msgid "image"
+msgstr "ছবি"
+
+#: inc/customizer.php:797
+msgid "Text animation"
+msgstr "লেখ্য অ্যানিমেশন"
+
+#: inc/dashboard.php:130
+msgid "%1$s action required"
+msgid_plural "%1$s actions required"
+msgstr[0] "%1$s পদক্ষেপ আবশ্যক"
+msgstr[1] "%1$s পদক্ষেপসমূহ আবশ্যক"
+
+#: inc/dashboard.php:132
+msgid "OnePress Theme %s"
+msgstr "OnePress থিম %s"
+
+#: inc/customizer.php:611 inc/customizer.php:629
+msgid "Custom CSS"
+msgstr "কাস্টোম সিএসএস(CSS)"
+
+#: section-parts/section-features.php:5
+msgid "Why choose Us"
+msgstr "কেন আমাদের নির্বাচন করবেন"
+
+#: inc/customizer.php:2090
+msgid "Services Layout Setting"
+msgstr "সেবার নকশা সেটিং"
+
+#: inc/customizer.php:1949 inc/customizer.php:2483
+msgid "Custom Link"
+msgstr "কাস্টম লিঙ্ক"
+
+#: inc/customizer.php:1945
+msgid "Description"
+msgstr "বর্ণনা"
+
+#: inc/customizer.php:1878
+msgid "Features Layout Setting"
+msgstr "ফিচার নকশা সেটিং"
+
+#: inc/customizer.php:1914
+msgid "Features content"
+msgstr "ফিচারের বিষয়বস্তু"
+
+#: inc/customizer.php:1825 section-parts/section-features.php:4
+msgid "Features"
+msgstr "বৈশিষ্ট্য"
+
+#: inc/customizer.php:1775
+msgid "Section: Features"
+msgstr "বিভাগ: ফিচার"
+
+#: inc/customizer.php:1376 inc/customizer.php:1687 inc/customizer.php:1862
+#: inc/customizer.php:2073 inc/customizer.php:2262 inc/customizer.php:2418
+#: inc/customizer.php:2588 inc/customizer.php:2743
+msgid "Section Description"
+msgstr "বিভাগের বিবরণ"
+
+#: inc/customizer.php:1810 section-parts/section-features.php:2
+msgid "features"
+msgstr "ফিচারস"
+
+#: inc/customizer.php:1172 inc/customizer.php:1940 inc/customizer.php:2150
+msgid "Image"
+msgstr "চিত্র "
+
+#: inc/customizer.php:1154
+msgid "Content Text"
+msgstr "পাঠ্য বিষয়বস্তু"
+
+#: inc/customizer.php:991
+msgid "Layout 1"
+msgstr "নকশা ১"
+
+#: inc/customizer.php:992
+msgid "Layout 2"
+msgstr "নকশা ২"
+
+#: inc/customizer.php:986
+msgid "Display Layout"
+msgstr "নকশা প্রদর্শন"
+
+#: inc/customizer.php:473 inc/customizer.php:1930 inc/customizer.php:1935
+#: inc/customizer.php:2140 inc/customizer.php:2145
+msgid "Icon"
+msgstr "আইকন"
+
+#: inc/customizer.php:477
+msgid "URL"
+msgstr "ইউআরএল"
+
+#: inc/customizer.php:469
+msgid "Social network"
+msgstr "সামাজিক যোগাযোগ মাধ্যম"
+
+#: inc/customizer.php:460
+msgid "Socials"
+msgstr "সামাজিক মাধ্যম"
+
+#: footer.php:34
+msgid "Subscribe"
+msgstr "সাবস্ক্রাইব"
+
+#: footer.php:33
+msgid "Enter your e-mail address"
+msgstr "আপনার ই-মেইল ঠিকানা প্রবেশ করান"
+
+#: inc/customizer.php:371
+msgid "Apply for front page template only."
+msgstr "শুধুমাত্র সামনের পাতার টেমপ্লেটের ক্ষেত্রে প্রযোজ্য।"
+
+#: inc/customizer.php:369
+msgid "Header Transparent"
+msgstr "স্বচ্ছ হেডার"
+
+#: inc/customizer.php:1885 inc/customizer.php:2097 inc/customizer.php:2441
+msgid "2 Columns"
+msgstr "২ স্তম্ভ"
+
+#: inc/dashboard.php:349
+msgid "OnePress Documentation"
+msgstr "OnePress এর নথিপত্র"
+
+#: inc/dashboard.php:355
+msgid "Support for %s WordPress theme is conducted through FameThemes support ticket system."
+msgstr "%s WordPress থিমের সহায়তা FameThemes সাপোর্ট টিকেট সিস্টেমের মাধ্যমে পরিচালিত হয়।"
+
+#: inc/customizer.php:1884 inc/customizer.php:2096 inc/customizer.php:2440
+msgid "3 Columns"
+msgstr "৩ স্তম্ভ"
+
+#: inc/customizer.php:1883 inc/customizer.php:2095 inc/customizer.php:2439
+msgid "4 Columns"
+msgstr "৪ স্তম্ভ"
+
+#: inc/customizer.php:1763 inc/customizer.php:1974
+msgid "Page Excerpt"
+msgstr "পাতার উদ্ধৃতাংশ"
+
+#: inc/customizer.php:1762 inc/customizer.php:1973
+msgid "Full Page Content"
+msgstr "সম্পূর্ণ পাতা বিষয়বস্তু"
+
+#: inc/customizer.php:1757 inc/customizer.php:1968
+msgid "Item content source"
+msgstr "পদের বিষয়বস্তুর উৎস"
+
+#: inc/customizer.php:1718
+msgid "About content page"
+msgstr "বিষয়বস্তু পাতা সম্পর্কে"
+
+#: inc/customizer.php:290
+msgid "Menu Link Color"
+msgstr "মেনু লিঙ্কের রঙ"
+
+#: inc/customizer.php:305
+msgid "Menu Link Hover/Active Color"
+msgstr "মেনু লিঙ্কের সাময়িক/সক্রিয় অবস্থার রঙ"
+
+#: inc/customizer.php:336
+msgid "Responsive Menu Button Color"
+msgstr "প্রতিক্রিয়াশীল মেনুর বোতামের রঙ"
+
+#: inc/customizer.php:321
+msgid "Menu Link Hover/Active BG Color"
+msgstr "মেনু লিঙ্ক সাময়িক/সক্রিয় বিজি রঙ"
+
+#: inc/customizer.php:352
+msgid "Center vertical align for menu"
+msgstr "মেনুর জন্য লম্ব-কেন্দ্রিক শ্রেনীবদ্ধ"
+
+#: inc/customizer.php:942
+msgid "Enable parallax effect (apply for first BG image only)"
+msgstr "লম্বন প্রভাব সক্ষম করুন (শুধুমাত্র প্রথম বিজি ছবির জন্য প্রযোজ্য)"
+
+#: inc/customizer.php:354
+msgid "If you use logo and your logo is too tall, check this box to auto vertical align menu."
+msgstr "যদি আপনি লোগো ব্যবহার করেন এবং লোগো অত্যধিক লম্বা হয়, তাহলে স্বয়ংক্রিয় লম্ব শ্রেনীবদ্ধ করার জন্য এই বাক্সে চেক করুন।"
+
+#: inc/customizer.php:277
+msgid "Only set if you don't use an image logo."
+msgstr "আপনি যদি ছবি লোগো ব্যবহার না করেন তবেই কেবল স্থির করুন।"
+
+#: inc/customizer.php:2434
+msgid "Team Layout Setting"
+msgstr "টীম নকশা সেটিং"
+
+#: inc/customizer.php:275
+msgid "Site Title Color"
+msgstr "সাইটের শিরোনামের রং"
+
+#: inc/customizer.php:259
+msgid "Background Color"
+msgstr "ব্যাকগ্রাউন্ড এর রং"
+
+#: inc/customizer.php:244
+msgid "Header"
+msgstr "হেডার"
+
+#: inc/customizer.php:201
+msgid "Primary Color"
+msgstr "মৌলিক রঙ"
+
+#: inc/customizer.php:192
+msgid "Site Colors"
+msgstr "সাইটের রঙ"
+
+#: inc/customizer.php:2478
+msgid "User media"
+msgstr "ব্যবহারকারী মিডিয়া"
+
+#: inc/customizer.php:1277
+msgid "Background image"
+msgstr "ব্যকগ্রাউন্ডের ছবি"
+
+#: inc/customizer.php:1245
+msgid "Section heading"
+msgstr "বিভাগ হেডিং"
+
+#: inc/customizer.php:1187
+msgid "Section: Video Lightbox"
+msgstr "বিভাগ: ভিডিও লাইটবক্স"
+
+#: inc/customizer.php:1260
+msgid "Video url"
+msgstr "ভিডিও url"
+
+#: inc/customizer.php:1262
+msgid "Paste Youtube or Vimeo url here"
+msgstr "Youtube অথবা Vimeo url এখানে পেস্ট করুন"
+
+#: inc/customizer.php:714 inc/customizer.php:1229 inc/customizer.php:1331
+#: inc/customizer.php:1642 inc/customizer.php:1817 inc/customizer.php:2217
+#: inc/customizer.php:2543 inc/customizer.php:2698
+msgid "The section id, we will use this for link anchor."
+msgstr "বিভাগ আইডি। আমরা এটি লিঙ্ক নোঙ্গর এর জন্য ব্যবহার করবো।"
+
+#: inc/dashboard.php:481
+msgid "Keep update with %s"
+msgstr "%s এর সঙ্গে হালনাগাদ থাকুন"
+
+#: inc/dashboard.php:472
+msgid "Change homepage page template"
+msgstr "প্রচ্ছদপাতার টেম্পলেট পরিবর্তন করুন"
+
+#: inc/dashboard.php:482
+msgid "Hooray! There are no required actions for you right now."
+msgstr "সুসংবাদ! এই মূহুর্তে আপনার জন্য আর কোনো আবশ্যকীয় কাজ নেই।"
+
+#: inc/dashboard.php:455
+msgid "Set your homepage page template to \"Frontpage\"."
+msgstr "আপনার প্রচ্ছদ পাতার টেম্পলেট কে \"সামনের পাতা\" তে স্থাপন করুন।"
+
+#: inc/dashboard.php:458
+msgid "In order to change homepage section contents, you will need to set template \"Frontpage\" for your homepage."
+msgstr "প্রচ্ছদ পাতা বিভাগের বিষয়বস্তু পরিবর্তন করতে, প্রচ্ছদ পাতার জন্য \"সামনের পাতা\" টেম্পলেটটি আপনাকে স্থাপন করতে হবে।"
+
+#: inc/dashboard.php:438
+msgid "In order to have the one page look for your website, please go to Customize -&gt; Static Front Page and switch \"Front page displays\" to \"A static page\"."
+msgstr "আপনার ওয়েবসাইটে এক পাতার দৃশ্য রাখার জন্য, অনুগ্রহ করে কাস্টমাইজ -&gt; থেকে স্থির সামনের পাতায় গিয়ে \"সামনের পাতা প্রদর্শনী\" কে \"একটি স্থির পাতা\" তে পরিবর্তন করুন।"
+
+#: inc/dashboard.php:441 inc/dashboard.php:465
+msgid "Setup front page displays"
+msgstr "সামনের পাতার প্রদর্শনি স্থাপন করুন"
+
+#: inc/dashboard.php:436
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr "\"সামনের পাতার প্রদর্শনী\" কে \"স্থির পাতা\" তে পরিবর্তন করুন"
+
+#: inc/dashboard.php:429 inc/dashboard.php:448
+msgid "Dismiss"
+msgstr "ভন্ডুল"
+
+#: inc/customizer.php:147
+msgid "Disable Sticky Header?"
+msgstr "স্টিকি হেডার অক্ষম করবেন?"
+
+#: inc/dashboard.php:328
+msgid "Actions Required"
+msgstr "পদক্ষেপ আবশ্যক"
+
+#: inc/dashboard.php:323
+msgid "Welcome to OnePress - Version %1s"
+msgstr "OnePress এ স্বাগতম - সংস্করণ %1s"
+
+#: inc/dashboard.php:134
+msgid "OnePress Theme"
+msgstr "OnePress থিম"
+
+#: inc/dashboard.php:137
+msgid "OnePress Dashboard"
+msgstr "OnePress ড্যাশবোর্ড"
+
+#: inc/customizer.php:923
+msgid "Background Overlay Color"
+msgstr "ব্যাকগ্রাউন্ড আস্তরণের রঙ"
+
+#: inc/customizer.php:644
+msgid "Section Order & Styling"
+msgstr "বিভাগ ক্রম এবং আখ্যা"
+
+#: inc/customizer.php:149
+msgid "Check this box to disable sticky header when scroll."
+msgstr "স্ক্রলের সময় স্টিকি হেডার অক্ষম করতে এই বাক্সে চেক করুন।"
+
+#: inc/dashboard.php:157
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr "স্বাগতম! %1$s নির্বাচন করার জন্য আপনাকে ধন্যবাদ! আমাদের থিম প্রদত্ত সকল উত্তম সুবিধা ভোগ করতে আমাদের <a href=\"%2$s\">স্বাগতম পাতা</a> তে ভ্রমনের মাধ্যমে নিশ্চিত করুন।"
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar"
+msgstr "বাম সাইডবার"
+
+#. Template Name of the plugin/theme
+msgid "Frontpage"
+msgstr "সামনের পাতা"
+
+#. #-#-#-#-#  onepress.pot (OnePress 1.4.3)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: inc/customizer.php:1447
+msgid "Full Width"
+msgstr "পূর্ণ প্রস্থ"
+
+#: template-parts/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "মনে হচ্ছে আপনি যেটি খুঁজছেন সেটি আমরা খুঁজে পাইনি। সম্ভবত অনুসন্ধানে পাওয়া যাবে।"
+
+#: template-parts/content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "দুঃখিত, কোনকিছু আপনার অনুসন্ধানকৃত বিষয়ের সাথে মিলেনি। অনুগ্রহ করে কিছু ভিন্ন কীওয়ার্ড দ্বারা আবার চেষ্টা করুন।"
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "আপনার প্রথম পোস্ট প্রকাশ করার জন্য প্রস্তুত? <a href=\"%1$s\">এখান থেকে শুরু করুন</a>।"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "কিছুই পাওয়া যায়নি"
+
+#: template-parts/content-list.php:38 template-parts/content-page.php:21
+#: template-parts/content-single.php:35 template-parts/content.php:39
+msgid "Pages:"
+msgstr "পাতাসমূহ:"
+
+#: section-parts/section-contact.php:48
+msgid "You can install %1$s plugin and go to Customizer &rarr; Section: Contact &rarr; Section Content to show a working contact form here."
+msgstr "আপনি %1$s প্লাগিন ইন্সটল করতে পারেন এবং কাস্টমাইজার &rarr; থেকে বিভাগ: যোগাযোগ &rarr; বিভাগ বিষয়বস্তু এ গিয়ে একটি কার্যরত যোগাযোগ ফর্ম প্রদর্শন করতে পারেন।"
+
+#: section-parts/section-hero.php:80
+msgid "#services"
+msgstr "#সেবা"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "অনুসন্ধানের ফলাফলঃ %s"
+
+#: inc/template-tags.php:248
+msgid "Your comment is awaiting moderation."
+msgstr "আপনার মন্তব্য অনুমোদনের অপেক্ষায় আছে।"
+
+#: inc/template-tags.php:243
+msgid "Edit"
+msgstr "সম্পাদন করা"
+
+#: inc/template-tags.php:242
+msgid "Reply"
+msgstr "জবাব"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:240
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:234
+msgid "Post author"
+msgstr "পোস্টের লেখক"
+
+#: inc/template-tags.php:215
+msgid "(Edit)"
+msgstr "(সম্পাদনা)"
+
+#: inc/template-tags.php:215
+msgid "Pingback:"
+msgstr "পিংব্যাকঃ"
+
+#: inc/template-tags.php:144
+msgid "% Comments"
+msgstr "%টি মন্তব্য"
+
+#: inc/template-tags.php:144
+msgid "1 Comment"
+msgstr "১টি মন্তব্য "
+
+#: inc/template-tags.php:144
+msgid "Leave a comment"
+msgstr "মন্তব্য করুন"
+
+#: inc/template-tags.php:138
+msgid "Tagged %1$s"
+msgstr "ট্যাগ হয়েছে %1$s ।"
+
+#: inc/template-tags.php:132
+msgid "Posted in %1$s"
+msgstr "পোস্ট করা হয়েছে %1$s  এ।"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:130 inc/template-tags.php:136
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:112
+msgctxt "post author"
+msgid "by %s"
+msgstr "%s কর্তৃক"
+
+#: inc/dashboard.php:347
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr "%s স্থাপন এবং কনফিগার করতে সহযোগিতা প্রয়োজন? অনুগ্রহ করে আমাদের নথিপত্রের নির্দেশনাগুলো দেখুন।"
+
+#: inc/template-tags.php:107
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "%s তারিখে প্রকাশিক হয়েছে"
+
+#: inc/dashboard.php:354
+msgid "Having Trouble, Need Support?"
+msgstr "সমস্যায় পড়েছেন, সহায়তা প্রয়োজন?"
+
+#: inc/customizer.php:2898
+msgid "Fax"
+msgstr "ফ্যাক্স"
+
+#: inc/dashboard.php:342
+msgid "Start Customize"
+msgstr "কাস্টমাইজ শুরু করুন"
+
+#: inc/dashboard.php:346
+msgid "Theme Documentation"
+msgstr "থিম নথিপত্র"
+
+#: inc/dashboard.php:339
+msgid "Theme Customizer"
+msgstr "থিম কাস্টমাইজার"
+
+#: inc/dashboard.php:340
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "%s সকল থিম সেটিংসের জন্য থিম কাস্টমাইজার সমর্থন করে। কাস্টমাইজ শুরু করতে \"কাস্টমাইজ\" এ ক্লিক করুন।"
+
+#: inc/dashboard.php:324
+msgid "OnePress is a creative and flexible WordPress ONE PAGE theme well suited for business, portfolio, digital agency, product showcase, freelancers websites."
+msgstr "OnePress একটি সৃজনশীল এবং নমনীয় WordPress এক পাতার থিম যা ব্যবসায়িক, দাপ্তরিক, ডিজিটাল সংস্থা, পণ্য প্রদর্শনী, ফ্রিল্যান্সার ওয়েবসাইটের জন্য খুবই উপযোগী।"
+
+#: inc/customizer.php:2883
+msgid "Email"
+msgstr "ই মেইল "
+
+#: inc/customizer.php:2868
+msgid "Phone"
+msgstr "ফোন"
+
+#: inc/customizer.php:2853
+msgid "Address"
+msgstr "ঠিকানা"
+
+#: inc/customizer.php:2706 section-parts/section-contact.php:4
+msgid "Get in touch"
+msgstr "সংস্পর্শে থাকুন"
+
+#: inc/customizer.php:2781
+msgid "Contact Form 7 Shortcode."
+msgstr "Contact Form 7 শর্টকোড।"
+
+#: inc/customizer.php:2797
+msgid "Hide contact form completely."
+msgstr "যোগাযোগের ফর্ম সম্পূর্ণভাবে আড়াল করুন।"
+
+#: inc/customizer.php:2799
+msgid "Check this box to hide contact form."
+msgstr "যোগাযোগ ফর্ম লুকানোর জন্য এই বাক্সটি চেক করুন।"
+
+#: inc/customizer.php:2838
+msgid "Contact Box Title"
+msgstr "যোগাযোগ বাক্সের শিরোনাম"
+
+#: inc/customizer.php:2814
+msgid "Contact Text"
+msgstr "যোগাযোগের লেখা"
+
+#: inc/customizer.php:2691 section-parts/section-contact.php:2
+msgid "contact"
+msgstr "যোগাযোগ"
+
+#: inc/customizer.php:2656
+msgid "Section: Contact"
+msgstr "বিভাগ: যোগাযোগ"
+
+#: inc/customizer.php:2639 section-parts/section-news.php:8
+msgid "Read Our Blog"
+msgstr "আমাদের ব্লগ পড়ুন"
+
+#: inc/customizer.php:2631
+msgid "More News button link"
+msgstr "আরও সংবাদ বোতাম লিঙ্ক"
+
+#: inc/customizer.php:2616
+msgid "Number of post to show"
+msgstr "প্রদর্শিত পোষ্টের সংখ্যা"
+
+#: inc/customizer.php:2551 section-parts/section-news.php:4
+msgid "Latest News"
+msgstr "সর্বেশেষ সংবাদ"
+
+#: inc/customizer.php:2501
+msgid "Section: News"
+msgstr "বিভাগ: সংবাদ"
+
+#: inc/customizer.php:2536 section-parts/section-news.php:2
+msgid "news"
+msgstr "সংবাদ"
+
+#: inc/customizer.php:2381 section-parts/section-team.php:4
+msgid "Our Team"
+msgstr "আমাদের টীম"
+
+#: inc/customizer.php:2316
+msgid "After number"
+msgstr "নাম্বারের পরে"
+
+#: inc/customizer.php:2311
+msgid "Before number"
+msgstr "নাম্বারের আগে"
+
+#: inc/customizer.php:2469
+msgid "Team members"
+msgstr "টীমের সদস্য"
+
+#: inc/customizer.php:2366 section-parts/section-team.php:2
+msgid "team"
+msgstr "টীম"
+
+#: inc/customizer.php:2332
+msgid "Section: Team"
+msgstr "বিভাগ: টীম"
+
+#: inc/customizer.php:2306
+msgid "Number"
+msgstr "নাম্বার"
+
+#: inc/customizer.php:2303
+msgid "Your counter label"
+msgstr "আপনার কাউন্টার লেবেল"
+
+#: inc/customizer.php:1923 inc/customizer.php:2300
+msgid "Title"
+msgstr "টাইটেল"
+
+#: inc/customizer.php:2291
+msgid "Counter content"
+msgstr "কাউন্টার বিষয়বস্তু"
+
+#: inc/customizer.php:1738 inc/customizer.php:2161
+msgid "Link to single page"
+msgstr "একক পাতায় লিঙ্ক করুন"
+
+#: inc/customizer.php:1729 inc/customizer.php:2156
+msgid "Select a page"
+msgstr "একটি পাতা নির্বাচন করুন"
+
+#: inc/customizer.php:464 inc/customizer.php:1722 inc/customizer.php:1918
+#: inc/customizer.php:2131 inc/customizer.php:2295 inc/customizer.php:2473
+msgid "[live_title]"
+msgstr "[live_title]"
+
+#: inc/customizer.php:2225 section-parts/section-counter.php:4
+msgid "Our Numbers"
+msgstr "আমাদের নাম্বার"
+
+#: inc/customizer.php:1927 inc/customizer.php:2137
+msgid "Custom icon"
+msgstr "কাস্টম আইকন"
+
+#: inc/customizer.php:2127
+msgid "Service content"
+msgstr "সেবার বিষয়বস্তু"
+
+#: inc/customizer.php:2036 section-parts/section-hero.php:79
+#: section-parts/section-services.php:4
+msgid "Our Services"
+msgstr "আমাদের সেবা"
+
+#: inc/customizer.php:1359 inc/customizer.php:1670 inc/customizer.php:1845
+#: inc/customizer.php:2056 inc/customizer.php:2245 inc/customizer.php:2401
+#: inc/customizer.php:2571 inc/customizer.php:2726
+msgid "Section Subtitle"
+msgstr "বিভাগের উপ-শিরোনাম"
+
+#: inc/customizer.php:1986
+msgid "Section: Services"
+msgstr "বিভাগ: সেবা"
+
+#: inc/customizer.php:1385 inc/customizer.php:1697 inc/customizer.php:1894
+#: inc/customizer.php:2107 inc/customizer.php:2271 inc/customizer.php:2449
+#: inc/customizer.php:2753
+msgid "Section Content"
+msgstr "বিভাগের বিষয়বস্তু"
+
+#: inc/customizer.php:1354 inc/customizer.php:1665 inc/customizer.php:1840
+#: inc/customizer.php:2051 inc/customizer.php:2240 inc/customizer.php:2396
+#: inc/customizer.php:2566 inc/customizer.php:2721
+#: section-parts/section-about.php:5 section-parts/section-contact.php:5
+#: section-parts/section-counter.php:5 section-parts/section-gallery.php:5
+#: section-parts/section-news.php:5 section-parts/section-services.php:5
+#: section-parts/section-team.php:5
+msgid "Section subtitle"
+msgstr "বিভাগ উপ-শিরোনাম"
+
+#: inc/customizer.php:2021 section-parts/section-services.php:2
+msgid "services"
+msgstr "সেবা"
+
+#: inc/customizer.php:2176
+msgid "Section: Counter"
+msgstr "বিভাগ: কাউন্টার"
+
+#: inc/customizer.php:2210 section-parts/section-counter.php:2
+msgid "counter"
+msgstr "কাউন্টার"
+
+#: inc/customizer.php:1734
+msgid "Hide item title"
+msgstr "পদের শিরোনাম লুকান"
+
+#: inc/customizer.php:1344 inc/customizer.php:1655 inc/customizer.php:1830
+#: inc/customizer.php:2041 inc/customizer.php:2230 inc/customizer.php:2386
+#: inc/customizer.php:2556 inc/customizer.php:2711
+msgid "Section Title"
+msgstr "বিভাগের শিরোনাম"
+
+#: inc/customizer.php:1635 section-parts/section-about.php:2
+msgid "about"
+msgstr "সম্বন্ধে"
+
+#: inc/customizer.php:1196 inc/customizer.php:1298 inc/customizer.php:1609
+#: inc/customizer.php:1784 inc/customizer.php:1995 inc/customizer.php:2185
+#: inc/customizer.php:2341 inc/customizer.php:2510 inc/customizer.php:2665
+msgid "Section Settings"
+msgstr "বিভাগ সেটিংস"
+
+#: inc/customizer.php:1600
+msgid "Section: About"
+msgstr "বিভাগ: সম্পর্কে"
+
+#: inc/customizer.php:1095
+msgid "Button #2 Text"
+msgstr "বোতাম #২ লেখা"
+
+#: inc/customizer.php:1109
+msgid "Button #2 Link"
+msgstr "বোতাম #২ লিঙ্ক"
+
+#: inc/customizer.php:1104 section-parts/section-hero.php:82
+msgid "#contact"
+msgstr "#যোগাযোগ"
+
+#: inc/customizer.php:1090 section-parts/section-hero.php:81
+msgid "Get Started"
+msgstr "শুরু করুন"
+
+#: inc/customizer.php:1038 inc/customizer.php:1650
+#: section-parts/section-about.php:4
+msgid "About Us"
+msgstr "আমাদের সম্পর্কে"
+
+#: inc/customizer.php:1010
+msgid "Large Text"
+msgstr "বড় লেখা"
+
+#: inc/customizer.php:970
+msgid "Hero Content Layout"
+msgstr "হিরো বিষয়বস্তুর নকশা"
+
+#: inc/customizer.php:1057
+msgid "Button #1 Link"
+msgstr "বোতাম #১ লিঙ্ক"
+
+#: inc/customizer.php:1043
+msgid "Button #1 Text"
+msgstr "বোতাম #১ লেখা"
+
+#: inc/customizer.php:1027
+msgid "Small Text"
+msgstr "ছোট লেখা"
+
+#: inc/customizer.php:1030
+msgid "You can use text rotate slider in this textarea too."
+msgstr "এই লেখার স্থানে আপনি লেখা পর্যাবৃত্ত স্লাইডারও ব্যবহার করতে পারেন।"
+
+#: inc/customizer.php:1012
+msgid "Text Rotating Guide: Put your rotate texts separate by \"|\" into <span class=\"js-rotating\">...</span>, go to Customizer->Site Option->Animate to control rotate animation."
+msgstr "লেখা পর্যাবৃত্ত সহয়িকা: <span class=\"js-rotating\">...</span> এ আপনার পর্যাবৃত্ত লেখাকে \"|\" দ্বারা আলাদা করতে, কাস্টমাইজার->সাইট অপশন->পর্যাবৃত অ্যানিমেশন কে নিয়ন্ত্রণ করতে অ্যানিমেট করুন এ যান।"
+
+#: inc/customizer.php:1052
+msgid "#about"
+msgstr "#সম্পর্কে"
+
+#: inc/customizer.php:897
+msgid "Background Image"
+msgstr "ব্যকগ্রাউন্ডের ছবি"
+
+#: inc/customizer.php:892
+msgid "Background"
+msgstr "ব্যকগ্রাউন্ড"
+
+#: inc/customizer.php:700 inc/customizer.php:1214 inc/customizer.php:1316
+#: inc/customizer.php:1627 inc/customizer.php:1802 inc/customizer.php:2013
+#: inc/customizer.php:2202 inc/customizer.php:2359 inc/customizer.php:2528
+#: inc/customizer.php:2683
+msgid "Check this box to hide this section."
+msgstr "বিভাগটি লুকাতে এই বাক্সে চেক করুন।"
+
+#: inc/customizer.php:862
+msgid "Hero Background Media"
+msgstr "হিরো ব্যাকগ্রাউন্ড মিডিয়া"
+
+#: inc/customizer.php:730
+msgid "Check this box to make hero section full screen."
+msgstr "হিরো বিভাগকে সমগ্র পর্দায় রূপান্তর করতে এই বাক্সতে চেক করুন।"
+
+#: inc/customizer.php:728
+msgid "Make hero section full screen"
+msgstr "হিরো বিভাগকে সমগ্র পর্দায় রূপান্তর করুন"
+
+#: inc/customizer.php:759
+msgid "Padding Bottom:"
+msgstr "তলদেশের প্যাডিং:"
+
+#: inc/customizer.php:743
+msgid "Padding Top:"
+msgstr "উপরিভাগের প্যাডিং:"
+
+#: inc/customizer.php:712 inc/customizer.php:1227 inc/customizer.php:1329
+#: inc/customizer.php:1640 inc/customizer.php:1815 inc/customizer.php:2026
+#: inc/customizer.php:2215 inc/customizer.php:2371 inc/customizer.php:2541
+#: inc/customizer.php:2696
+msgid "Section ID:"
+msgstr "বিভাগ আইডি:"
+
+#: inc/customizer.php:738 inc/customizer.php:754
+msgid "10"
+msgstr "10"
+
+#: inc/customizer.php:888
+msgid "Background Images"
+msgstr "ব্যাকগ্রাউন্ড ছবিসমূহ"
+
+#: inc/customizer.php:707 section-parts/section-hero.php:2
+msgid "hero"
+msgstr "হিরো"
+
+#: inc/customizer.php:491
+msgid "Newsletter"
+msgstr "নিউজলেটার"
+
+#: inc/customizer.php:522
+msgid "Newsletter Form Title"
+msgstr "নিউজলেটার ফর্মের শিরোনাম"
+
+#: inc/customizer.php:698 inc/customizer.php:1212 inc/customizer.php:1314
+#: inc/customizer.php:1625 inc/customizer.php:1800 inc/customizer.php:2011
+#: inc/customizer.php:2200 inc/customizer.php:2357 inc/customizer.php:2526
+#: inc/customizer.php:2681
+msgid "Hide this section?"
+msgstr "বিভাগটি লুকাবেন?"
+
+#: inc/customizer.php:682
+msgid "Hero Settings"
+msgstr "হিরো সেটিংস"
+
+#: inc/customizer.php:672
+msgid "Section: Hero"
+msgstr "বিভাগ: হিরো"
+
+#: inc/customizer.php:508
+msgid "Check this box to hide footer newsletter form."
+msgstr "ফুটার নিউজলেটার ফর্ম লুকাতে এই বাক্সে চেক করুন।"
+
+#: inc/customizer.php:506
+msgid "Hide Footer Newsletter?"
+msgstr "ফুটার নিউজলেটার লুকাবেন?"
+
+#: inc/customizer.php:538
+msgid "MailChimp Action URL"
+msgstr "MailChimp অ্যাকশন URL"
+
+#: inc/customizer.php:109
+msgid "Global"
+msgstr "সার্বজনীন"
+
+#: inc/customizer.php:395
+msgid "Social Profiles"
+msgstr "সামাজিক মাধ্যম প্রোফাইল"
+
+#: inc/customizer.php:163
+msgid "Disable animation effect?"
+msgstr "অ্যানিমেশন প্রভাব অক্ষম করবেন?"
+
+#: inc/customizer.php:411
+msgid "Hide Footer Social?"
+msgstr "ফুটার সামাজিক মাধ্যম লুকাবেন?"
+
+#: inc/customizer.php:440
+msgid "Social Footer Title"
+msgstr "ফুটার সামাজিক মাধ্যম শিরোনাম"
+
+#: inc/customizer.php:165
+msgid "Check this box to disable all element animation when scroll."
+msgstr "স্ক্রলের সময় সকল অ্যানিমেশন উপাদান অক্ষম করতে এই বাক্সে চেক করুন।"
+
+#: inc/customizer.php:180
+msgid "Hide footer back to top?"
+msgstr "ফুটার থেকে উপরে ফিরে যাওয়া লুকাবেন?"
+
+#: inc/customizer.php:182
+msgid "Check this box to hide footer back to top button."
+msgstr "ফুটার থেকে উপরে ফিরে যাওয়া লুকাতে এই বাক্সে চেক করুন।"
+
+#: inc/customizer.php:426
+msgid "These social profiles setting below will display at the footer of your site."
+msgstr "নিম্নোক্ত সামাজিক মাধ্যম প্রোফাইল সেটিং আপনার সাইটের ফুটারে প্রদর্শিত হবে।"
+
+#: inc/customizer.php:413
+msgid "Check this box to hide footer social section."
+msgstr "ফুটার থেকে সামাজিক মাধ্যম বিভাগ লুকাতে এই বাক্সে চেক করুন।"
+
+#: inc/customizer.php:99
+msgid "Theme Options"
+msgstr "থিমের অপশনসমুহ"
+
+#: inc/customizer.php:38
+msgid "Select page"
+msgstr "পাতা নির্বাচন"
+
+#: inc/customizer.php:25
+msgid "Site Title, Tagline & Logo"
+msgstr "সাইটের শিরোনাম, ট্যাগলাইন এবং লোগো"
+
+#: inc/customizer.php:49
+msgid "Select member"
+msgstr "সদস্য নির্বাচন"
+
+#: inc/customizer-controls.php:675
+msgid "Close"
+msgstr "বন্ধ"
+
+#: inc/customizer-controls.php:640
+msgid "Change"
+msgstr "পরিবর্তন"
+
+#: inc/customizer-controls.php:640
+msgid "Add"
+msgstr "যোগ"
+
+#: inc/customizer-controls.php:639 inc/customizer-controls.php:661
+#: inc/customizer-controls.php:673
+msgid "Remove"
+msgstr "মুছে ফেলুন"
+
+#: inc/customizer-controls.php:408 inc/customizer-controls.php:523
+msgid "Item"
+msgstr "পণ্য"
+
+#: inc/customizer-controls.php:508
+msgid "Add an item"
+msgstr "একটি পদ যুক্ত করুন"
+
+#: inc/template-tags.php:73
+msgid "Menu"
+msgstr "মেনু"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "এড়িয়ে লেখায় যান"
+
+#: functions.php:371
+msgid "Please contact the administrator of this site for help."
+msgstr "অনুগ্রহ করে সাইটের তত্বাবধায়কের সঙ্গে সহযোগিতার জন্য যোগাযোগ করুন।"
+
+#: functions.php:370
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "সকল প্লাগিনস সফলভাবে ইন্সটল এবং সক্রিয় হয়েছে। %1$s"
+
+#: functions.php:369
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "প্লাগিন সক্রিয় হয়নি। এই থিমের জন্য একটি উচ্চতর সংস্করণের %s দরকার। অনুগ্রহ করে প্লাগিনটি হালনাগাদ করুন।"
+
+#: functions.php:368
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "কোনো পদক্ষেপ গ্রহণ করা হয়নি। %1$s প্লাগিন পূর্বেই সক্রিয় ছিলো।"
+
+#: functions.php:366
+msgid "Plugin activated successfully."
+msgstr "প্লাগিন সফলভাবে সক্রিয় হয়েছে।"
+
+#: functions.php:367
+msgid "The following plugin was activated successfully:"
+msgstr "নিম্নোক্ত প্লাগিন সফলভাবে সক্রিয় হয়েছে:"
+
+#: functions.php:364
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "প্লাগিন সক্রিয় করা আরম্ভ করুন"
+msgstr[1] "প্লাগিনস সক্রিয় করা আরম্ভ করুন"
+
+#: functions.php:365
+msgid "Return to Required Plugins Installer"
+msgstr "আবশ্যক প্লাগিনস ইন্সটলারে ফিরে যান"
+
+#: functions.php:363
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "প্লাগিন হালনাগাদ আরম্ভ করুন"
+msgstr[1] "প্লাগিনস হালনাগাদ আরম্ভ করুন"
+
+#: functions.php:362
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "প্লাগিন ইন্সটল আরম্ভ করুন"
+msgstr[1] "প্লাগিনস ইন্সটল আরম্ভ করুন"
+
+#: functions.php:361
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "দুঃখিত, %1$s প্লাগিন সক্রিয় করার সঠিক অনুমতি আপনার নেই।"
+msgstr[1] "দুঃখিত, %1$s প্লাগিনস সক্রিয় করার সঠিক অনুমতি আপনার নেই।"
+
+#: functions.php:360
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "নিম্নোক্ত সুপারিশকৃত প্লাগিন এই মূহুর্তে নিষ্ক্রিয়: %1$s."
+msgstr[1] "নিম্নোক্ত সুপারিশকৃত প্লাগিনস এই মূহুর্তে নিষ্ক্রিয়: %1$s."
+
+#: functions.php:359
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "নিম্নোক্ত আবশ্যক প্লাগিন এই মূহুর্তে নিষ্ক্রিয়: %1$s."
+msgstr[1] "নিম্নোক্ত আবশ্যক প্লাগিনস এই মূহুর্তে নিষ্ক্রিয়: %1$s."
+
+#: functions.php:358
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "দুঃখিত, %1$s প্লাগিন হালনাগাদ করার সঠিক অনুমতি আপনার নেই।"
+msgstr[1] "দুঃখিত, %1$s প্লাগিনস হালনাগাদ করার সঠিক অনুমতি আপনার নেই।"
+
+#: functions.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "নিম্নোক্ত প্লাগিনের হালনাগাদ এসেছে: %1$s."
+msgstr[1] "নিম্নোক্ত প্লাগিনসের হালনাগাদ এসেছে: %1$s."
+
+#: functions.php:355
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "দুঃখিত, %1$s প্লাগিন ইন্সটল করার সঠিক অনুমতি আপনার নেই।"
+msgstr[1] "দুঃখিত, %1$s প্লাগিনস ইন্সটল করার সঠিক অনুমতি আপনার নেই।"
+
+#: functions.php:356
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "এই থিমের সঙ্গে সর্বাধিক সামঞ্জস্যতা নিশ্চিত করতে নিম্নোক্ত প্লাগিন হালনাগাদ করা প্রয়োজন: %1$s."
+msgstr[1] "এই থিমের সঙ্গে সর্বাধিক সামঞ্জস্যতা নিশ্চিত করতে নিম্নোক্ত প্লাগিনস হালনাগাদ করা প্রয়োজন: %1$s."
+
+#: functions.php:354
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "এই থিমটি নিম্নোক্ত প্লাগিন সুপারিশ করে: %1$s."
+msgstr[1] "এই থিমটি নিম্নোক্ত প্লাগিনস সুপারিশ করে: %1$s."
+
+#: functions.php:353
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "এই থিমটিতে নিম্নোক্ত প্লাগিন আবশ্যক: %1$s."
+msgstr[1] "এই থিমটিতে নিম্নোক্ত প্লাগিনস আবশ্যক: %1$s."
+
+#: functions.php:352
+msgid "Something went wrong with the plugin API."
+msgstr "প্লাগিন API- তে কিছু ভুল হয়েছে।"
+
+#: functions.php:351
+msgid "Installing Plugin: %s"
+msgstr "প্লাগিন ইন্সটল হচ্ছেঃ %s"
+
+#: functions.php:350
+msgid "Install Plugins"
+msgstr "প্লাগিন ইন্সটল করুন"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:268
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:349
+msgid "Install Required Plugins"
+msgstr "আবশ্যক প্লাগিনস ইন্সটল করুন"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:262
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:142
+msgid "Sidebar"
+msgstr "সাইডবার"
+
+#: functions.php:59
+msgid "Primary Menu"
+msgstr "প্রাথমিক মেনু"
+
+#: inc/template-tags.php:971
+msgid "Copyright %1$s %2$s %3$s"
+msgstr "কপিরাইট %1$s %2$s %3$s"
+
+#: inc/template-tags.php:973
+msgid "%1$s theme by %2$s"
+msgstr "%1$s থিম %2$s কর্তৃক"
+
+#: footer.php:94
+msgid "Back To Top"
+msgstr "উপরে ফিরে যান"
+
+#: footer.php:19 inc/customizer.php:516
+msgid "Join our Newsletter"
+msgstr "আমাদের নিউজলেটারে যুক্ত হোন"
+
+#: footer.php:15 inc/customizer.php:434
+msgid "Keep Updated"
+msgstr "হালনাগাদ রাখুন"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "মন্তব্য বন্ধ আছে।"
+
+#: comments.php:44 comments.php:64
+msgid "Newer Comments"
+msgstr "নূতন মন্তব্যসমূহ"
+
+#: comments.php:43 comments.php:63
+msgid "Older Comments"
+msgstr "পুরনো মন্তব্যসমূহ"
+
+#: comments.php:40 comments.php:60
+msgid "Comment navigation"
+msgstr "মন্তব্যের নেভিগেশন"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; এ একটি মন্তব্য"
+msgstr[1] "&ldquo;%2$s&rdquo; এ %1$s টি মন্তব্য"
+
+#. translators: %1$s: smiley
+#: 404.php:51
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "মাসিক আর্কাইভ এ দেখুন %1$s"
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "সর্বাধিক ব্যবহৃত বিভাগসমূহ"
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "দুঃখিত! মনে হচ্ছে কিছুই পাওয়া যায়নি। নিচের লিঙ্ক বা অনুসন্ধান এর মধ্যে একটি চেষ্টা করুন"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "উফ! ঐ পাতাটি পাওয়া যায়নি।"
+
+#. Author URI of the plugin/theme
+msgid "http://www.famethemes.com"
+msgstr "http://www.famethemes.com"
+
+#. Author of the plugin/theme
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.famethemes.com/themes/onepress/"
+msgstr "https://www.famethemes.com/themes/onepress/"

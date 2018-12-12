@@ -1,0 +1,12 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .neptune-notice {
+     padding:1em;
+     padding-bottom:1px;
+ }
+ .neptune-upgrade {
+     border-bottom: 4px solid #2ecc71;
+     border-radius:5px;
+ }

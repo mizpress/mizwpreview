@@ -1,0 +1,137 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+a.button {
+  border-color: #FF5722;
+  background-color: #FF5722;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 50px;
+  padding: 1em 2em;
+}
+a.alt-button {
+  border-color: #FFFFFF;
+  background-color: transparent;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 50px;
+  padding: 1em 2em;
+}
+/*--------------------------------------------------------------
+## Properties
+--------------------------------------------------------------*/
+.property-preview {
+    margin: 3em 0;
+    padding: 0 2em;
+    position: relative;
+  }
+  .property {
+    padding: 3em 0 0.5em;
+    position: relative;
+    margin-bottom: 1em;
+  }
+  .single .property {
+    padding: 0;
+  }
+  .property-preview .thumbnail {
+    min-height: 420px;
+    position: relative;
+  }
+  .property-details {
+    padding: 1em;
+    background: #fff;
+  }
+  .property-preview h2.entry-title {
+    font-size: 21px;
+    font-weight: 600;
+    margin: 0;
+    text-transform: capitalize;
+  }
+  .property-details .location a {
+    color: #2ecc71;
+    font-size: 15px;
+    text-decoration: none;
+  }
+  .property-details span {
+    font-size: 14px;
+    opacity: 1;
+  }
+  .property-preview .for-sale {
+      background: #2ecc71;
+      padding: 0px 14px;
+      border-radius: 37px;
+      text-decoration: none;
+      color: #fff;
+      font-size: 13px;
+      position: absolute;
+      top: 10px;
+      left: 10px;
+  }
+  .property-preview .for-rent {
+      background: #0984e3;
+      padding: 0px 14px;
+      border-radius: 37px;
+      text-decoration: none;
+      color: #fff;
+      font-size: 13px;
+      position: absolute;
+      top: 10px;
+      right:10px;
+  }
+    .property-preview .sold {
+      background: #e74c3c;
+      padding: 0px 14px;
+      border-radius: 37px;
+      text-decoration: none;
+      color: #fff;
+      font-size: 13px;
+      position: absolute;
+      top: 10px;
+      right:10px;
+  }
+  .property-preview span.price {
+    font-size: 21px;
+    font-weight: 600;
+    color: rgba(0,0,0,0.5);
+    margin-bottom: 10px;
+  }
+  .property-amenities-small {
+    border-top: 1px solid;
+    border-color: rgba(0,0,0, 0.1);
+    margin-top: 10px;
+  }
+  .property-wrapper {
+    background-color: rgba(246, 248, 250, 1);
+    padding: 2em 0;
+  }
+  @media all and (max-width: 420px){
+    .property-preview {
+      padding: 0;
+    }
+  }
+  
+  /* Single Property */
+  
+  .amenities {
+    margin: 0;
+    padding: 0;
+    columns: 3;
+    -webkit-columns: 3;
+    -moz-columns: 3;
+    list-style: none;
+    text-transform: capitalize;
+  }
+  .single-property .entry-header {
+    padding: 0;
+    padding-bottom: 1em;
+  }
+  .single-property .entry-title {
+    text-align: left;
+    font-size: 35px;
+    font-weight: 600;
+  }
+  #secondary {
+    margin-top: 5em;
+  }
