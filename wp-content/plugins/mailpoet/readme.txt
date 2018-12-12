@@ -2,8 +2,8 @@
 Contributors: mailpoet, wysija
 Tags: email marketing, newsletter, newsletter subscribers, email, welcome email, post notification, WooCommerce emails, newsletter builder
 Requires at least: 4.7
-Tested up to: 4.9
-Stable tag: 3.14.1
+Tested up to: 5.0
+Stable tag: 3.16.2
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -168,6 +168,17 @@ Stop by our [support site](https://www.mailpoet.com/support).
 6. WooCommerce emails
 
 == Changelog ==
+
+= 3.16.2 - 2018-12-11 =
+* Added: new post notification default subject to highlight how to use Subject Line variables;
+* Improved: minor tweaks and fixes;
+
+= 3.16.1 - 2018-12-05 =
+* Added: error message for banned senders;
+* Improved: PHP compatibility warning updated to recommend PHP 7.2 or later;
+* Improved: Error handling and display;
+* Improved: timing of hook actions to avoid conflicts with other plugins;
+* Fixed: mailer errors are displayed if they occur when sending a newsletter preview.
 
 = 3.15.0 - 2018-11-27 =
 * Improved: plugin ZIP file size is considerably reduced;
